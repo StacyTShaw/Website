@@ -1,5 +1,5 @@
-## Welcome to the Website
-You can use the [editor on GitHub](https://github.com/StacyTShaw/Website/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+title: Welcome to Stacy's Github Website
+description: Stacy is now learning Github and is using this website to learn more about it. 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
